@@ -1,0 +1,36 @@
+# Go build outputs
+/bin/
+/obj/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+
+# Go cache
+/pkg/
+/*.test
+
+vendor/
+
+/go.sum
+/go.mod
+*.mod
+
+*.log
+*.out
+backup-report.json
+
+.DS_Store
+Thumbs.db
+
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+
+back-it-up
+
+
